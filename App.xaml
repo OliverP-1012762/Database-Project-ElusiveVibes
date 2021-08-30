@@ -1,0 +1,9 @@
+﻿<Application x:Class="Powell_Oliver_Y12CSC_Project2System.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Powell_Oliver_Y12CSC_Project2System"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

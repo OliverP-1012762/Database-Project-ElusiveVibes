@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Powell_Oliver_Y12CSC_Project2System"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Background="#FF4E646A">
     <Grid>
-        <Button AutomationProperties.Name="Create" Margin="229,10,229,297" Click="Button_Click" Content="Do" />
+        <Button AutomationProperties.Name="Create" Margin="188,119,332,248" Click="Button_Click" Content="Do" Background="#aed1d9"/>
+        <Rectangle Fill="#c7375f" Margin="0,25,0,355" ></Rectangle>
 
     </Grid>
 </Window>
